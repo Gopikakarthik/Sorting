@@ -1,4 +1,6 @@
-# EX:7 SORTING 
+# EX:7 SORTING
+# DATE:27/9/24
+# REGISTER NUMBER:212222040046
 # Aim:
 Write a python program for sorting and inspect for failures.
 # Algorithm:
